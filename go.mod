@@ -31,7 +31,7 @@ require (
 	goauthentik.io/api/v3 v3.2024042.13
 	golang.org/x/exp v0.0.0-20230210204819-062eb4c674ab
 	golang.org/x/oauth2 v0.21.0
-	golang.org/x/sync v0.7.0
+	golang.org/x/sync v0.10.0
 	gopkg.in/yaml.v2 v2.4.0
 	layeh.com/radius v0.0.0-20210819152912-ad72663a72ab
 )
@@ -72,11 +72,11 @@ require (
 	go.opentelemetry.io/otel v1.24.0 // indirect
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
-	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
-	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
+	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
